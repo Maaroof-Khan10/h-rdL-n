@@ -2,7 +2,7 @@
 
 **h@rdL!n** is a bash script designed to automate the process of hardening a Linux system with essential security measures. Whether you're a beginner or an experienced system administrator, this script will help ensure your Linux system is secured through a series of configurable tasks. 
 
-With **h@rdL!n**, you can apply best practices like updating system packages, enforcing password policies, disabling SSH root login, setting up firewalls, and more—all in a gamified manner that tracks your progress with a security score.
+With **h@rdL!n**, you can apply best practices like updating system packages, enforcing password policies, disabling SSH root login, setting up firewalls, and more, all in a gamified manner that tracks your progress with a security score.
 
 ## Features
 - **Gamified Security Levels:** Each task is part of a level, and you can track your progress with a security score.
