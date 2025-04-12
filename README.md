@@ -78,12 +78,12 @@ With **h@rdL!n**, you can apply best practices like updating system packages, en
 
 2. **Make the script executable:**
    ```bash
-   chmod +x 'hardL!n.sh'
+   chmod +x 'h@rdL!n.sh'
    ```
 
 3. **Run the script as root:**
    ```bash
-   sudo './hardL!n.sh'
+   sudo './h@rdL!n.sh'
    ```
 
 ## Usage
