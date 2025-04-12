@@ -72,8 +72,8 @@ With **h@rdL!n**, you can apply best practices like updating system packages, en
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Maaroof-Khan/h@rdL!n.git
-   cd 'h@rdL!n'
+   git clone https://github.com/Maaroof-Khan/hardLin.git
+   cd hardLin-main/src
    ```
 
 2. **Make the script executable:**
